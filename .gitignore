@@ -1,0 +1,14 @@
+# YouTube downloader (auto-downloaded by scripts)
+yt-dlp.exe
+
+# Generated transcripts and metadata
+output/
+
+# Legacy data from old workflows
+old-flow/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+**/nul
